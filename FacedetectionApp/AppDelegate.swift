@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  FacedetectionApp
 //
-//  Created by Viraj Zaveri on 03/05/18.
 //  Copyright © 2018 MyCompany. All rights reserved.
 //
 
